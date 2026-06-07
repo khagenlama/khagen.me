@@ -1,6 +1,7 @@
 ---
 title: Home
 publish: true
+contentType: homepage
 description: Public writing by Khagen on software engineering, faith, learning, and fitness.
 ---
 

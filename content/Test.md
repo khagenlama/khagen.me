@@ -1,8 +1,8 @@
 ---
-title: New Post
+title: Test Post
 publish: true
 contentType: post
-description: One-line summary of this post.
+description: A published test post.
 ---
 
 Write your post here.

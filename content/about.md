@@ -3,6 +3,7 @@ title: About
 date: 2026-06-07
 tags: [about]
 publish: true
+contentType: about
 description: About Khagen and the purpose behind this writing space.
 ---
 I am Khagen Lama, a software engineer based in Kathmandu.
