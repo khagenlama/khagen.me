@@ -5,4 +5,4 @@ contentType: post
 description: A published test post.
 ---
 
-Write your post here.
+Write your post here. Okay my blog site is ready for writing i guess.
