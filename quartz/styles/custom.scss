@@ -285,10 +285,13 @@ body[data-slug="index"] .recent-notes {
   margin-top: 1.4rem;
 }
 
+body[data-slug="index"] .recent-notes .recent-li.recent-non-post,
 body[data-slug="index"] .recent-notes .recent-li:has(a[href="./about"]),
 body[data-slug="index"] .recent-notes .recent-li:has(a[href="./"]),
 body[data-slug="index"] .recent-notes .recent-li:has(a[href="./404"]),
-body[data-slug="index"] .recent-notes .recent-li:has(a[href^="./tags"]) {
+body[data-slug="index"] .recent-notes .recent-li:has(a[href="/404"]),
+body[data-slug="index"] .recent-notes .recent-li:has(a[href^="./tags"]),
+body[data-slug="index"] .recent-notes .recent-li:has(a[href^="/tags"]) {
   display: none;
 }
 
@@ -301,7 +304,7 @@ body[data-slug="index"] .recent-notes .recent-ul::before {
   padding: 0.75rem 0 0.2rem;
 }
 
-body[data-slug="index"] .recent-notes .recent-ul:has(.recent-li)::before {
+body[data-slug="index"] .recent-notes .recent-ul:has(.recent-li.recent-post)::before {
   display: none;
 }
 
