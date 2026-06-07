@@ -1,16 +1,19 @@
 ---
-title: Notes from the journey.
+title: Home
 publish: true
+description: Public writing by Khagen on software engineering, faith, learning, and fitness.
 ---
 
-I'm Khagen — a software engineer based in Kathmandu. I write about what I'm learning, building, reading, and experiencing. This is a living notebook, not a polished publication.
+<p class="hero-eyebrow">KHAGEN LAMA · SOFTWARE ENGINEER</p>
 
-Topics you'll find here: **software engineering**, **AI**, **faith & scripture**, **books**, **fitness**, and the general texture of life.
+<p class="hero-title">Notes from the journey.</p>
 
----
+<p class="hero-description">I write about software engineering, faith, learning, and fitness. Mostly text. No noise.</p>
 
-## Recent writing
+<div class="topic-pills">
+	<span class="topic-pill">⚙️ Engineering</span>
+	<span class="topic-pill">✝️ Faith</span>
+	<span class="topic-pill">📚 Learning</span>
+	<span class="topic-pill">💪 Fitness</span>
+</div>
 
-Browse everything using the search above, or explore by tag.
-
-> *Some posts are polished. Some are rough. All are honest.*

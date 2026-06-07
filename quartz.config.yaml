@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: khagen.me
   pageTitleSuffix: " · Khagen Lama"
@@ -16,30 +15,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: "Instrument Serif"
+      header: "Inter"
       body: "Inter"
       code: "JetBrains Mono"
     colors:
       lightMode:
-        light: "#fafaf9"              # warm off-white background
-        lightgray: "#e8e5e0"
-        gray: "#b8b5b0"
-        darkgray: "#3d3a36"           # warm dark for body text
-        dark: "#1a1917"               # near-black for headings
-        secondary: "#4a6fa5"          # muted blue for links
-        tertiary: "#7a9cc5"           # lighter blue for hover
-        highlight: "rgba(74, 111, 165, 0.08)"
-        textHighlight: "#fff3cd"
+        light: "#fafafa"
+        lightgray: "#e4e4e7"
+        gray: "#71717a"
+        darkgray: "#27272a"
+        dark: "#09090b"
+        secondary: "#2563eb"
+        tertiary: "#1d4ed8"
+        highlight: "rgba(37,99,235,0.08)"
+        textHighlight: "#fef08a"
       darkMode:
-        light: "#17161a"              # very dark warm background
-        lightgray: "#2a2830"
-        gray: "#4a4858"
-        darkgray: "#c8c5c0"
-        dark: "#f0eee8"
-        secondary: "#7aa2d4"
-        tertiary: "#9ab8e0"
-        highlight: "rgba(122, 162, 212, 0.1)"
-        textHighlight: "#3a3000"
+        light: "#0f0f10"
+        lightgray: "#27272a"
+        gray: "#a1a1aa"
+        darkgray: "#d4d4d8"
+        dark: "#f4f4f5"
+        secondary: "#93c5fd"
+        tertiary: "#c4b5fd"
+        highlight: "rgba(244,244,245,0.04)"
+        textHighlight: "#3f3f46"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -68,7 +67,7 @@ plugins:
     enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -101,7 +100,7 @@ plugins:
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
-    enabled: false
+    enabled: true
   - source: github:quartz-community/unlisted-pages
     enabled: true
     options: {}
@@ -136,25 +135,22 @@ plugins:
   - source: github:quartz-community/tag-page
     enabled: true
   - source: github:quartz-community/explorer
-    enabled: true
+    enabled: false
     layout:
       position: left
-      priority: 50
+      priority: 40
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
   - source: github:quartz-community/search
     enabled: true
     layout:
-      position: left
-      priority: 20
-      group: toolbar
-      groupOptions:
-        grow: true
+      position: beforeBody
+      priority: 10
   - source: github:quartz-community/backlinks
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
@@ -174,30 +170,29 @@ plugins:
       position: beforeBody
       priority: 30
   - source: github:quartz-community/page-title
-    enabled: true
+    enabled: false
     layout:
       position: left
-      priority: 10
+      priority: 5
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
-      position: left
-      priority: 30
-      group: toolbar
+      position: beforeBody
+      priority: 15
   - source: github:quartz-community/reader-mode
-    enabled: true
+    enabled: false
     layout:
-      position: left
+      position: beforeBody
       priority: 35
       group: toolbar
   - source: github:quartz-community/breadcrumbs
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: true
+    enabled: false
     options:
       provider: giscus
       options:
@@ -219,18 +214,19 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/khagenlama
+        LinkedIn: https://www.linkedin.com/in/khagenlama/
+        X: https://x.com/KhagenLama_
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
-      title: Recent Notes
-      limit: 5
-      linkToMore: false
-      showTags: true
+      title: Recent Writing
+      limit: 8
+      linkToMore: /tags
+      showTags: false
     layout:
-      position: left
-      priority: 25
+      position: afterBody
+      priority: 5
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -252,7 +248,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
@@ -261,27 +257,24 @@ plugins:
       priority: 15
       display: all
 layout:
-  groups:
-    toolbar:
-      priority: 35
-      direction: row
-      gap: 0.5rem
   byPageType:
+    content:
+      template: full-width
+      positions:
+        left: []
+        right: []
+    folder:
+      template: full-width
+      positions:
+        left: []
+        right: []
+    tag:
+      template: full-width
+      positions:
+        left: []
+        right: []
     "404":
       positions:
         beforeBody: []
         left: []
         right: []
-    content: {}
-    folder:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    tag:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    canvas: {}
-    bases: {}

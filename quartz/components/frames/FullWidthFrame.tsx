@@ -29,12 +29,15 @@ export const FullWidthFrame: PageFrame = {
               {header.map((HeaderComponent) => (
                 <HeaderComponent {...componentData} />
               ))}
-            </Header>
-            <div class="popover-hint">
               {beforeBody.map((BodyComponent) => (
                 <BodyComponent {...componentData} />
               ))}
-            </div>
+            </Header>
+          </div>
+          <div class="before-body">
+            {beforeBody.map((BodyComponent) => (
+              <BodyComponent {...componentData} />
+            ))}
           </div>
           <Content {...componentData} />
           <hr />

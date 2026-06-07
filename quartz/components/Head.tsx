@@ -12,9 +12,16 @@ export default (() => {
     externalResources,
     ctx,
   }: QuartzComponentProps) => {
+    const slugFallbackTitle =
+      fileData.slug
+        ?.split("/")
+        .pop()
+        ?.replace(/[-_]/g, " ")
+        ?.replace(/\b\w/g, (char) => char.toUpperCase()) ??
+      i18n(cfg.locale).propertyDefaults.title
+
     const titleSuffix = cfg.pageTitleSuffix ?? ""
-    const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+    const title = (fileData.frontmatter?.title ?? slugFallbackTitle) + titleSuffix
     const description =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
@@ -26,6 +33,11 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
+    const faviconIcoPath = joinSegments(baseDir, "static/favicon.ico")
+    const favicon32Path = joinSegments(baseDir, "static/favicon-32x32.png")
+    const favicon16Path = joinSegments(baseDir, "static/favicon-16x16.png")
+    const appleTouchIconPath = joinSegments(baseDir, "static/apple-touch-icon.png")
+    const webManifestPath = joinSegments(baseDir, "static/site.webmanifest")
 
     // Url of current page
     const socialUrl =
@@ -91,6 +103,11 @@ export default (() => {
           </>
         )}
 
+        <link rel="icon" href={faviconIcoPath} sizes="any" />
+        <link rel="icon" type="image/png" sizes="32x32" href={favicon32Path} />
+        <link rel="icon" type="image/png" sizes="16x16" href={favicon16Path} />
+        <link rel="apple-touch-icon" sizes="180x180" href={appleTouchIconPath} />
+        <link rel="manifest" href={webManifestPath} />
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
