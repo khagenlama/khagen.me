@@ -224,6 +224,8 @@ plugins:
       limit: 8
       linkToMore: /tags
       showTags: false
+      hideTagPages: true
+      hideFolderPages: true
     layout:
       position: afterBody
       priority: 5

@@ -285,6 +285,13 @@ body[data-slug="index"] .recent-notes {
   margin-top: 1.4rem;
 }
 
+body[data-slug="index"] .recent-notes .recent-li:has(a[href="./about"]),
+body[data-slug="index"] .recent-notes .recent-li:has(a[href="./"]),
+body[data-slug="index"] .recent-notes .recent-li:has(a[href="./404"]),
+body[data-slug="index"] .recent-notes .recent-li:has(a[href^="./tags"]) {
+  display: none;
+}
+
 body[data-slug="index"] .recent-notes .recent-ul::before {
   content: "Stay tuned. New posts are coming soon.";
   display: block;
