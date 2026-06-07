@@ -1,6 +1,6 @@
 ---
 title: Test Post
-publish: true
+publish: false
 contentType: post
 description: A published test post.
 ---
