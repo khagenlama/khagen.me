@@ -1,6 +1,6 @@
 ---
 title: New Post
-publish: false
+publish: true
 contentType: post
 description: One-line summary of this post.
 ---
