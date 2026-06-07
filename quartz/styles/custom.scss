@@ -295,17 +295,13 @@ body[data-slug="index"] .recent-notes .recent-li:has(a[href^="/tags"]) {
   display: none;
 }
 
-body[data-slug="index"] .recent-notes .recent-ul::before {
+body[data-slug="index"] .recent-notes .recent-ul:empty::before {
   content: "Stay tuned. New posts are coming soon.";
   display: block;
   color: var(--gray);
   font-size: 0.95rem;
   margin: 0;
   padding: 0.75rem 0 0.2rem;
-}
-
-body[data-slug="index"] .recent-notes .recent-ul:has(.recent-li.recent-post)::before {
-  display: none;
 }
 
 body[data-slug="index"] .page-footer {
