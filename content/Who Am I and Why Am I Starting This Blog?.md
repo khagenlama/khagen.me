@@ -12,11 +12,11 @@ Well, this is my personal website and personal blog, and I have a story to share
 
 ## Who Am I?
 
-My name is Khagen. I was born in Doti District, Nepal, and I currently work in the software industry. I have been involved in software development for more than four years now.
+My name is Khagen. I was born in Doti District, Nepal, and I currently work in the software industry. I have been involved in this industry for more than four years now.
 
 I come from a Christian background and have known about Christianity since childhood. However, my faith journey has grown much deeper over the past few years as I have come to know Christ personally. Today, my relationship with God is much more real and personal than it was before, and that journey is something I hope to share here as well.
 
-I am also studying for a Bachelor of Science in Computer Science through the University of London. I started about one and a half years ago and have recently completed my first year. For someone coming from my background, this opportunity is something I never imagined growing up.
+I am also studying for a Bachelor of Science in Computer Science through the University of London. I started a year ago and have recently completed my first year. For someone coming from my background, this opportunity is something I never imagined growing up.
 
 ## A Journey from Nothing
 
@@ -54,7 +54,7 @@ Sometimes a post may be a life lesson. Sometimes it may be a reflection. Other t
 
 ## My Career Journey
 
-Professionally, I have spent the last few years working in software development.
+Professionally, I have spent the last few years working in software (web) development.
 
 I started my career at a large multinational digital agency and later moved into enterprise software development. Today, I have the opportunity to work alongside talented engineers and professionals who have spent decades in the industry.
 
