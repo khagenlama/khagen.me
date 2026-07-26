@@ -22,3 +22,5 @@ I don't claim to have everything figured out. I'm still learning, still growing,
 My goal isn't to impress people with ideas. It's to document the journey honestly and share things that might help others think more clearly, build more intentionally, follow Christ more faithfully, or simply feel less alone in their own journey.
 
 If something here encourages you, challenges you, or helps you in any way, then this blog is doing exactly what it was created to do.
+
+**Contact me**: khagenboy@gmail.com
