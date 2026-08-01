@@ -29,7 +29,7 @@ The problem wasn't that I wasn't trying. The problem wasn't that I wasn't desiri
 
 ## We're All Fighting Something
 
-Now i can say that this wasn't an exclusive challenge, that it isn't only a Christian thing or a Hindu thing. It really doesn't matter what you believe. Everyone is fighting with all that they have.
+Now i can say that this wasn't an exclusive challenge, that it isn't only a Christian thing. It really doesn't matter what you believe or what you don't. Everyone is fighting with all that they have.
 
 I remember walking on the street here in Kathmandu, near a small local shop or restaurant. There was a group of people sitting there: some young men, some older, drinking or eating. A song was playing from a speaker nearby, something about trying to break free from addiction, from drugs and alcohol, about a mother and father hoping their son would do something good, but he was looking at himself and seeing how far he had fallen. That song was playing while they were drinking, and I could tell it wasn't just background noise to them. People don't play songs at random. They play the ones that resonate with them, that speak to their situation.
 
