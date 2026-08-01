@@ -61,7 +61,7 @@ I can't fully put it into words. Yes, there's crying, there's sorrow in it, but 
 
 After that phase of repentance, there's a true joy, a real moment of joy, of happiness that's hard to describe. We start seeing the world differently. We start laughing at ourselves, at what we were doing. It feels like a miracle.
 
-I wanted to share this journey, this reflection. This whole topic came up a few weeks back in a class discussion on faith and repentance, and I've been meditating on it since. This is how I see it now.
+I wanted to share this journey, this reflection. This whole topic came up a few weeks back in a city to city class discussion on faith and repentance, and I've been meditating on it since. This is how I see it now.
 
 ## To Whoever Is Reading This
 
