@@ -22,7 +22,7 @@ I am also studying for a Bachelor of Science in Computer Science through the Uni
 
 One reason I want to write is because my life journey may encourage someone else.
 
-I grew up in a family that struggled financially. My father was completely broke. We had almost nothing—no land, no house, nothing of our own.
+I grew up in a family that struggled financially. My father was completely broke. We had almost nothing: no land, no house, nothing of our own.
 
 From Doti, I moved to Banke, and eventually to Kathmandu. Looking back, it feels like a long journey filled with challenges, uncertainties, and many lessons along the way.
 
@@ -98,7 +98,7 @@ It is about documenting a life journey as it unfolds.
 
 Writing here will help me stay accountable, reflect on what I am learning, and hopefully create something useful for others.
 
-I believe that every person has a story, and this blog is simply my way of sharing mine—one chapter at a time.
+I believe that every person has a story, and this blog is simply my way of sharing mine, one chapter at a time.
 
 ## What's Next?
 
@@ -112,7 +112,7 @@ Maybe in the future I will add a newsletter, notifications, or a contact form. I
 
 Right now, I simply want to start.
 
-I have many topics in my mind already. The challenge is not finding something to write about—it is deciding what to write first.
+I have many topics in my mind already. The challenge is not finding something to write about. It is deciding what to write first.
 
 As a believer, I want to write prayerfully and thoughtfully, sharing what I feel led to share at the right time.
 
@@ -130,6 +130,6 @@ This is just the beginning.
 
 Thank you again for being here.
 
-Have a good day—or a good night.
+Have a good day, or a good night.
 
 See you in the next chapter.

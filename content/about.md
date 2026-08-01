@@ -11,7 +11,7 @@ Hi, I'm Khagen Lama.
 
 I'm a software engineer based in Kathmandu, Nepal, passionate about building software, learning deeply, and living faithfully.
 
-My journey started in Doti, a small district in western Nepal. I grew up with very limited resources, but through God's grace, hard work, and the help of many people along the way, I've had opportunities I never imagined—including building software for international organizations and studying Computer Science through the University of London.
+My journey started in Doti, a small district in western Nepal. I grew up with very limited resources, but through God's grace, hard work, and the help of many people along the way, I've had opportunities I never imagined, including building software for international organizations and studying Computer Science through the University of London.
 
 This website is my personal notebook.
 
