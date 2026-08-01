@@ -3,8 +3,6 @@ title: What I'm Learning from the Life of Joseph
 publish: true
 contentType: post
 description: Reflections from a long walk of prayer on Joseph's temptation, patience, and forgiveness.
-tags:
-  - faith
 ---
 > I see the Lord and his mighty work taking place.
 > And his mighty work.
