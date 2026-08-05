@@ -5,7 +5,7 @@ contentType: post
 description: What I'm learning about the difference between feeling confident and placing faith in the right place, and what happens when repentance finally sinks in.
 ---
 > Wonderful is the work of your hands.\
-> For I was going first through the way of the unknown,\
+> For I was going fourth through the way of the unknown,\
 > and as I was wandering here and there, filled with terror, hopelessness, and fear,\
 > I saw your hand stretching down from heaven to reach out to me.\
 > And I saw myself standing up, feeling strengthened.\

@@ -14,5 +14,5 @@ description: A prayer of looking to the Lord as shield and defender when the ene
 > as I call on the name of the Lord. I wait, I expectantly wait, for his help.\
 > While I'm waiting, I will be praising. While I'm waiting, I will be worshiping.\
 > The Lord is my shield, my rock, and my defender.\
-> He sets me free from every bondage of the senses and shields me with the robe of love and holiness, so that the enemy cannot find where I am.\
+> He sets me free from every bondage of the sins and shields me with the robe of love and holiness, so that the enemy cannot find where I am.\
 > For the Lord God is my God, who goes before me. He is my Shepherd. He leads me through the green pasture. I thank the Lord day and night, morning and evening. As I wake and as I lay down on my bed, I thank the Lord, for he is worthy, for he has done wonderful works and deeds in my life.
