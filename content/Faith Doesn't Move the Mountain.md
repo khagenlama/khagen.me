@@ -4,19 +4,19 @@ publish: true
 contentType: post
 description: What I'm learning about the difference between feeling confident and placing faith in the right place, and what happens when repentance finally sinks in.
 ---
-> Wonderful is the work of your hands.
-> For I was going first through the way of the unknown,
-> and as I was wandering here and there, filled with terror, hopelessness, and fear,
-> I saw your hand stretching down from heaven to reach out to me.
-> And I saw myself standing up, feeling strengthened.
-> It is not I who was becoming stronger.
-> It is not I who was becoming more faithful.
-> But it was your gift of faith that was increasing in me.
-> No matter how the way ahead of me looks, it is you, Lord, who has raised me.
-> You are my strength and my shield in the time of trouble and in the time of sorrow, in the time of joy and in the time of victories, and in the time of failures.
-> Today I see your faith, your work, your spirit, your character, your ways growing in me.
-> Yet it is not I who is growing, not I who is making these things grow. It is your gift, for you yourself have placed your hand over me.
-> Great is your work in my life! Wonderful are your deeds!
+> Wonderful is the work of your hands.\
+> For I was going first through the way of the unknown,\
+> and as I was wandering here and there, filled with terror, hopelessness, and fear,\
+> I saw your hand stretching down from heaven to reach out to me.\
+> And I saw myself standing up, feeling strengthened.\
+> It is not I who was becoming stronger.\
+> It is not I who was becoming more faithful.\
+> But it was your gift of faith that was increasing in me.\
+> No matter how the way ahead of me looks, it is you, Lord, who has raised me.\
+> You are my strength and my shield in the time of trouble and in the time of sorrow, in the time of joy and in the time of victories, and in the time of failures.\
+> Today I see your faith, your work, your spirit, your character, your ways growing in me.\
+> Yet it is not I who is growing, not I who is making these things grow. It is your gift, for you yourself have placed your hand over me.\
+> Great is your work in my life! Wonderful are your deeds!\
 > Even on the road of the unknown, I have found refuge to hold on to, and yet it is not I who is holding. It is you who are holding. Great and amazing is your faithfulness.
 
 *It takes courage. It requires boldness. Faith is inevitable, and yet it looks like a weakness.*

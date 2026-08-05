@@ -4,8 +4,8 @@ publish: true
 contentType: post
 description: Reflections from a long walk of prayer on Joseph's temptation, patience, and forgiveness.
 ---
-> I see the Lord and his mighty work taking place.
-> And his mighty work.
+> I see the Lord and his mighty work taking place.\
+> And his mighty work.\
 > Taking place.
 
 Today I was meditating, praying, and wandering through the life of Joseph. It was wonderful to sit with his story, thinking about his journey from being a boy to becoming second only to Pharaoh in Egypt. It was inspiring.
