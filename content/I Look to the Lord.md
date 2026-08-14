@@ -3,6 +3,9 @@ title: I Look to the Lord
 publish: true
 contentType: post
 description: A prayer of looking to the Lord as shield and defender when the enemy's plans surround me.
+created: 2026-08-05
+modified: 2026-08-05
+published: 2026-08-05
 ---
 > Many are my foes, but I look to the Lord.\
 > It is hard for me to know their secret plans.\

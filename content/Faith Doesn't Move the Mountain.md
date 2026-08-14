@@ -3,6 +3,9 @@ title: Faith Doesn't Move the Mountain
 publish: true
 contentType: post
 description: What I'm learning about the difference between feeling confident and placing faith in the right place, and what happens when repentance finally sinks in.
+created: 2026-08-01
+modified: 2026-08-01
+published: 2026-08-01
 ---
 > Wonderful is the work of your hands.\
 > For I was going fourth through the way of the unknown,\

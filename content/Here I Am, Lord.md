@@ -3,6 +3,9 @@ title: Here I Am, Lord
 publish: true
 contentType: post
 description: A raw prayer of fear and self-doubt in a crowd, and the choice to keep turning back to the One who has held me since before I was born.
+created: 2026-08-08
+modified: 2026-08-08
+published: 2026-08-08
 ---
 > Oh Lord, here I am,\
 > in the midst of this crowd.\

@@ -3,6 +3,9 @@ title: Who Am I, and Why Am I Starting This Blog?
 publish: true
 contentType: post
 description: I have a story to share
+created: 2026-06-07
+modified: 2026-06-07
+published: 2026-06-07
 ---
 Hey,
 

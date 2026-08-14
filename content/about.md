@@ -1,11 +1,13 @@
 ---
 title: About
-date: 2026-06-07
 tags: [about]
 publish: true
 unlisted: true
 contentType: about
 description: About Khagen and the purpose behind this writing space.
+created: 2026-06-07
+modified: 2026-06-07
+published: 2026-06-07
 ---
 Hi, I'm Khagen Lama.
 

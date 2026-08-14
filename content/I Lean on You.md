@@ -3,6 +3,9 @@ title: I Lean on You
 publish: true
 contentType: post
 description: A raw, restless prayer of having nothing to offer and surrendering it all anyway.
+created: 2026-08-14
+modified: 2026-08-14
+published: 2026-08-14
 ---
 I have nothing, oh God, that I could offer you. Without you, oh God, I have nothing. I am hopeless, useless, restless, wandering here and there, trying to figure things out alone. Without you, I have nothing. What can I give you, oh God? Far from that, I have nothing. What shall I offer you? Can I say I give you all of me? Really, you know I have nothing. So what can I give you? What does that all mean? Nothing. I don't know.
 
