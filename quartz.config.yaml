@@ -222,7 +222,7 @@ plugins:
     options:
       title: Recent Writing
       limit: 8
-      linkToMore: /tags
+      linkToMore: /tags/post
       showTags: false
       hideTagPages: true
       hideFolderPages: true
