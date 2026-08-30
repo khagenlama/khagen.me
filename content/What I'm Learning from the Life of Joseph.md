@@ -1,6 +1,7 @@
 ---
 title: What I'm Learning from the Life of Joseph
 publish: true
+tags: [post]
 contentType: post
 description: Reflections from a long walk of prayer on Joseph's temptation, patience, and forgiveness.
 created: 2026-07-26

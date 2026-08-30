@@ -1,6 +1,7 @@
 ---
 title: Teach Me a New Definition of Love
 publish: true
+tags: [post]
 contentType: post
 description: Giving up on a love I couldn't understand, and asking God to teach me what love really is.
 created: 2026-08-31

@@ -1,6 +1,7 @@
 ---
 title: Oh My Heart, Do Not Be Troubled
 publish: true
+tags: [post]
 contentType: post
 description: A day of conflicting emotions, a missed reunion, and the realization that the Lord has taken the driver's seat of my heart.
 created: 2026-08-22

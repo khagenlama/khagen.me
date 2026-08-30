@@ -1,6 +1,7 @@
 ---
 title: Here I Am, Lord
 publish: true
+tags: [post]
 contentType: post
 description: A raw prayer of fear and self-doubt in a crowd, and the choice to keep turning back to the One who has held me since before I was born.
 created: 2026-08-08

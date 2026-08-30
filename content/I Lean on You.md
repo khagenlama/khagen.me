@@ -1,6 +1,7 @@
 ---
 title: I Lean on You
 publish: true
+tags: [post]
 contentType: post
 description: A raw, restless prayer of having nothing to offer and surrendering it all anyway.
 created: 2026-08-14

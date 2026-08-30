@@ -1,6 +1,7 @@
 ---
 title: Faith Doesn't Move the Mountain
 publish: true
+tags: [post]
 contentType: post
 description: What I'm learning about the difference between feeling confident and placing faith in the right place, and what happens when repentance finally sinks in.
 created: 2026-08-01

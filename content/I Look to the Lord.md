@@ -1,6 +1,7 @@
 ---
 title: I Look to the Lord
 publish: true
+tags: [post]
 contentType: post
 description: A prayer of looking to the Lord as shield and defender when the enemy's plans surround me.
 created: 2026-08-05
