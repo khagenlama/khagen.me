@@ -49,4 +49,4 @@ But I'll be honest: while you are in the dark days, it's hard to say. We can say
 
 If you are going through any of these stages, lean on God completely. Look to Jesus. The Spirit of Christ will come upon you and lead you through, whatever the situation is. He will strengthen you, guide you, and show you his way. He will free you from every chain, and then we will know true freedom, and we will worship him out of that freedom and love.
 
-Thank you for reading. Have a great day.
+Thank you for reading!
